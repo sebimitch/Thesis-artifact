@@ -1,0 +1,1 @@
+The artifact was built using React. 
